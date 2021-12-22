@@ -1,1 +1,1 @@
-rootProject.name = "velocitygradletemplate"
+rootProject.name = "vivecraftvelocityextensions"

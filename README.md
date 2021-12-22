@@ -1,3 +1,3 @@
-# VelocityGradleTemplate
+# VivecraftVelocityExtensions
 
-A template for Minecraft Velocity Proxy Plugins with Gradle.
+Adds support for Vivecraft clients connecting to servers with Vivecraft extensions via a Velocity proxy.
